@@ -1,0 +1,114 @@
+.headerClass{  
+  padding-top:20px;
+  padding-bottom: 20px;
+  background-color: white;
+ border-radius: 5px;
+ border:1px solid gray;
+}
+.textDesign{
+  text-align: left;
+}
+.logOutClass{
+  text-align: right;
+}
+.contentWrapper{
+  padding-top:20px;
+  padding-bottom: 20px; 
+
+  
+}
+.employeHeading{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.labelClass{
+float: left;
+font-weight: bold;
+}
+.buttonAdd{
+  margin-top: 30px;
+  width: 100%;
+}
+.bg-clr{
+  background-color: white;
+}
+
+
+.employeListHeadding{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 20px;;
+}
+.EditIcon{
+width: 16px;
+height: 16px;
+background-image: url("edit.png");
+cursor: pointer;
+border: none;
+display: block;
+}
+.DeleteIcon{
+  width: 16px;
+  height: 16px;
+  background-image: url("delete.png");
+  cursor: pointer;
+  border: none;
+  }
+  .feedbackIcon{
+    width: 16px;
+  height: 16px;
+  background-image: url("feedback.png");
+  cursor: pointer;
+  border: none;
+  }
+  .tagIcon{
+    width: 16px;
+    height: 16px;
+    background-image: url("tag.png");
+    cursor: pointer;
+    border: none;
+  }
+  .hideThisButton{
+    display: none;
+  }
+  .showEditButton{
+display: none;
+  }
+  .showEditButtonREal{
+    display: block;
+  }
+  .ShowAddButton{
+    display: block;
+  }
+  .ShowAddButtonReal{
+    display: none;
+  }
+
+
+  .editResetButtonStyle{
+    float: left;
+    margin-left: 3px;
+    margin-right: 9px;
+    margin-top: 30px;
+  }
+.modal-dialog{
+  max-width: 90% !important;
+  width: 90% !important;
+}
+.btnspacing{
+  margin-top:55px;
+}
+.btnspacingTag{
+  margin-top:0px;
+}
+.listingheader{
+  text-align: center;
+  padding-top:20px;
+  padding-bottom:20px;
+  font-weight: bold;
+}
+.myscroll{
+  height:200px;
+  overflow: auto;
+}
